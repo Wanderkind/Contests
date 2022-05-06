@@ -17,3 +17,5 @@ Accepted submissions for rated contests
 ### codeforces.com
 [Codeforces Round #775 (Div. 2, based on Moscow Open Olympiad in Informatics)](https://codeforces.com/contest/1649)<br>
 [Codeforces Round #785 (Div. 2)](https://codeforces.com/contest/1673)<br>
+[Codeforces Round #786 (Div. 3)](https://codeforces.com/contest/1674)<br>
+[Codeforces Round #787 (Div. 3)](https://codeforces.com/contest/1675)<br>

@@ -19,3 +19,4 @@ Accepted submissions for rated contests
 [Codeforces Round #785 (Div. 2)](https://codeforces.com/contest/1673)<br>
 [Codeforces Round #786 (Div. 3)](https://codeforces.com/contest/1674)<br>
 [Codeforces Round #787 (Div. 3)](https://codeforces.com/contest/1675)<br>
+[Codeforces Round #788 (Div. 2)](https://codeforces.com/contest/1670)<br>

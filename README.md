@@ -4,6 +4,7 @@ Accepted submissions for rated contests
 ## profiles
 
 [acmicpc.net](https://www.acmicpc.net/user/wanderkind)<br>
+[atcoder.jp](https://atcoder.jp/users/wanderkind)<br>
 [codeforces.com](https://codeforces.com/profile/Wanderkind)<br>
 
 ## contest links
@@ -13,6 +14,9 @@ Accepted submissions for rated contests
 [제1회 실버컵](https://www.acmicpc.net/contest/view/770)<br>
 [진짜 최종 구데기컵 2 2](https://www.acmicpc.net/contest/view/781)<br>
 [2022 DGIST 현풍전산배 알고리즘 대회 Open Contest](https://www.acmicpc.net/contest/view/800)<br>
+
+### atcoder.jp
+[AtCoder Beginner Contest 250](https://atcoder.jp/contests/abc250)<br>
 
 ### codeforces.com
 [Codeforces Round #775 (Div. 2, based on Moscow Open Olympiad in Informatics)](https://codeforces.com/contest/1649)<br>

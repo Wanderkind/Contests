@@ -15,6 +15,7 @@ Accepted submissions for rated contests
 [진짜 최종 구데기컵 2 2](https://www.acmicpc.net/contest/view/781)<br>
 [2022 DGIST 현풍전산배 알고리즘 대회 Open Contest](https://www.acmicpc.net/contest/view/800)<br>
 [제1회 곰곰컵](https://www.acmicpc.net/contest/view/792)<br>
+[UCPC 2022 예선 Open Contest](https://www.acmicpc.net/contest/view/829)<br>
 
 ### atcoder.jp
 [AtCoder Beginner Contest 250](https://atcoder.jp/contests/abc250)<br>

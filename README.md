@@ -34,3 +34,4 @@ Accepted submissions for rated contests
 [Educational Codeforces Round 131 (Rated for Div. 2)](https://codeforces.com/contest/1701)<br>
 [Codeforces Round #809 (Div. 2)](https://codeforces.com/contest/1706)<br>
 [Educational Codeforces Round 132 (Rated for Div. 2)](https://codeforces.com/contest/1709)<br>
+[Codeforces Round #810 (Div. 2)](https://codeforces.com/contest/1711)<br>

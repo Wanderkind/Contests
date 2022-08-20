@@ -24,6 +24,7 @@ Accepted submissions for rated contests
 [AtCoder Beginner Contest 261](https://atcoder.jp/contests/abc261)<br>
 [AtCoder Regular Contest 145](https://atcoder.jp/contests/arc145)<br>
 [LINE Verda Programming Contest (AtCoder Beginner Contest 263)](https://atcoder.jp/contests/abc263)<br>
+[AtCoder Regular Contest 146](https://atcoder.jp/contests/arc146)<br>
 
 ### codeforces.com
 [Codeforces Round #775 (Div. 2, based on Moscow Open Olympiad in Informatics)](https://codeforces.com/contest/1649)<br>

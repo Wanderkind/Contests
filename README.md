@@ -16,6 +16,7 @@ Accepted submissions for rated contests
 [2022 DGIST 현풍전산배 알고리즘 대회 Open Contest](https://www.acmicpc.net/contest/view/800)<br>
 [제1회 곰곰컵](https://www.acmicpc.net/contest/view/792)<br>
 [UCPC 2022 예선 Open Contest](https://www.acmicpc.net/contest/view/829)<br>
+[2022 IGRUS Newbie Programming Contest Open](https://www.acmicpc.net/contest/view/855)<br>
 
 ### atcoder.jp
 [AtCoder Beginner Contest 250](https://atcoder.jp/contests/abc250)<br>

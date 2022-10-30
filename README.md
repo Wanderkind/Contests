@@ -17,6 +17,7 @@ Accepted submissions for rated contests
 [제1회 곰곰컵](https://www.acmicpc.net/contest/view/792)<br>
 [UCPC 2022 예선 Open Contest](https://www.acmicpc.net/contest/view/829)<br>
 [2022 IGRUS Newbie Programming Contest Open](https://www.acmicpc.net/contest/view/855)<br>
+[2022 SKKU 프로그래밍 대회 in 소프트의 밤 Open Contest](https://www.acmicpc.net/contest/view/894)<br>
 
 ### atcoder.jp
 [AtCoder Beginner Contest 250](https://atcoder.jp/contests/abc250)<br>

@@ -19,6 +19,7 @@ Accepted submissions for rated contests
 [2022 IGRUS Newbie Programming Contest Open](https://www.acmicpc.net/contest/view/855)<br>
 [2022 SKKU 프로그래밍 대회 in 소프트의 밤 Open Contest](https://www.acmicpc.net/contest/view/894)<br>
 [제 9회 한양대학교 프로그래밍 경시대회 (HCPC) Open Contest - Beginner Division](https://www.acmicpc.net/contest/view/916)<br>
+[Zero One Algorithm Contest 2022 Open Contest](https://www.acmicpc.net/contest/view/921)<br>
 
 ### atcoder.jp
 [AtCoder Beginner Contest 250](https://atcoder.jp/contests/abc250)<br>

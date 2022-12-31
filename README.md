@@ -21,7 +21,7 @@ Accepted submissions for rated contests
 [제 9회 한양대학교 프로그래밍 경시대회 (HCPC) Open Contest - Beginner Division](https://www.acmicpc.net/contest/view/916)<br>
 [Zero One Algorithm Contest 2022 Open Contest](https://www.acmicpc.net/contest/view/921)<br>
 [2022 제1회 미적확통컵](https://www.acmicpc.net/contest/view/919)<br>
-[2022 제1회 미적확통컵](https://www.acmicpc.net/contest/view/919)<br>
+Good Bye, BOJ 2022!<br>
 
 ### atcoder.jp
 [AtCoder Beginner Contest 250](https://atcoder.jp/contests/abc250)<br>

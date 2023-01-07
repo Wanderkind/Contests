@@ -32,6 +32,7 @@ Good Bye, BOJ 2022!<br>
 [LINE Verda Programming Contest (AtCoder Beginner Contest 263)](https://atcoder.jp/contests/abc263)<br>
 [AtCoder Regular Contest 146](https://atcoder.jp/contests/arc146)<br>
 [キーエンスプログラミングコンテスト2022（AtCoder Beginner Contest 274](https://atcoder.jp/contests/abc274)<br>
+[AtCoder Beginner Contest 284](https://atcoder.jp/contests/abc284)<br>
 
 ### codeforces.com
 [Codeforces Round #775 (Div. 2, based on Moscow Open Olympiad in Informatics)](https://codeforces.com/contest/1649)<br>

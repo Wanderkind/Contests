@@ -22,6 +22,7 @@ Accepted submissions for rated contests
 [Zero One Algorithm Contest 2022 Open Contest](https://www.acmicpc.net/contest/view/921)<br>
 [2022 제1회 미적확통컵](https://www.acmicpc.net/contest/view/919)<br>
 Good Bye, BOJ 2022!<br>
+[보드게임컵](https://www.acmicpc.net/contest/view/927)<br>
 
 ### atcoder.jp
 [AtCoder Beginner Contest 250](https://atcoder.jp/contests/abc250)<br>

@@ -25,6 +25,7 @@ Accepted submissions for rated contests
 [보드게임컵](https://www.acmicpc.net/contest/view/927)<br>
 [아니메컵 1쿨](https://www.acmicpc.net/contest/view/938)<br>
 [아니메컵 2쿨](https://www.acmicpc.net/contest/view/939)<br>
+[2023 KSA Automata Winter Contest](https://www.acmicpc.net/contest/view/952)<br>
 
 ### atcoder.jp
 [AtCoder Beginner Contest 250](https://atcoder.jp/contests/abc250)<br>

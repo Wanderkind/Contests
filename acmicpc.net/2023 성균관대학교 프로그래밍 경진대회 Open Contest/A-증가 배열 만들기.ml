@@ -1,0 +1,1 @@
+Scanf.scanf "%d %d %d\n" @@ fun n m k -> if n + m > k + 1 then print_endline "NO" else (print_endline "YES"; for i = 1 to n do for j = 1 to m do Printf.printf "%d " @@ i + j - 1 done; print_newline () done)

@@ -28,6 +28,7 @@ Accepted submissions for rated contests
 [2023 KSA Automata Winter Contest](https://www.acmicpc.net/contest/view/952)<br>
 [제1회 흐즈로컵](https://www.acmicpc.net/contest/view/956)<br>
 [2023 성균관대학교 프로그래밍 경진대회 Open Contest](https://www.acmicpc.net/contest/view/958)<br>
+[GEC-Cup (Open contest)](https://www.acmicpc.net/contest/view/978)<br>
 
 ### atcoder.jp
 [AtCoder Beginner Contest 250](https://atcoder.jp/contests/abc250)<br>

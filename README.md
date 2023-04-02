@@ -29,6 +29,7 @@ Accepted submissions for rated contests
 [제1회 흐즈로컵](https://www.acmicpc.net/contest/view/956)<br>
 [2023 성균관대학교 프로그래밍 경진대회 Open Contest](https://www.acmicpc.net/contest/view/958)<br>
 [GEC-Cup (Open contest)](https://www.acmicpc.net/contest/view/978)<br>
+[가희와 함께 하는 5회 코딩테스트](https://www.acmicpc.net/contest/view/946)<br>
 
 ### atcoder.jp
 [AtCoder Beginner Contest 250](https://atcoder.jp/contests/abc250)<br>

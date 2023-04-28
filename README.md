@@ -71,6 +71,7 @@ Accepted submissions for rated contests
 [Codeforces Round #841 (Div. 2) and Divide by Zero 2022](https://codeforces.com/contest/1731)<br>
 [Good Bye 2022: 2023 is NEAR](https://codeforces.com/contest/1770)<br>
 [Codeforces Round #842 (Div. 2)](https://codeforces.com/contest/1768)<br>
+[Codeforces Round #868 (Div. 2)](https://codeforces.com/contest/1823)<br>
 
 ### codingcompetitions.withgoogle.com
 [Kick Start 2022 Round E](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb0f5)<br>

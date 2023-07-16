@@ -76,6 +76,7 @@ Accepted submissions for rated contests
 [Codeforces Round #869 (Div. 2)](https://codeforces.com/contest/1818)<br>
 [Codeforces Round #875 (Div. 2)](https://codeforces.com/contest/1831)<br>
 [Codeforces Round #883 (Div. 3)](https://codeforces.com/contest/1846)<br>
+[Codeforces Round #885 (Div. 2)](https://codeforces.com/contest/1848)<br>
 
 ### codingcompetitions.withgoogle.com
 [Kick Start 2022 Round E](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb0f5)<br>

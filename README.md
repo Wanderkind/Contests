@@ -33,6 +33,7 @@ Accepted submissions for rated contests
 [2023 가지컵](https://www.acmicpc.net/contest/view/963)<br>
 [_](https://www.acmicpc.net/contest/view/965)<br>
 [solved.ac Grand Arena #2 · Arena #2](https://www.acmicpc.net/contest/view/1077)<br>
+[월간 향유회 2023. 08.](https://www.acmicpc.net/contest/view/1094)<br>
 
 ### atcoder.jp
 [AtCoder Beginner Contest 250](https://atcoder.jp/contests/abc250)<br>

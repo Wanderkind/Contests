@@ -85,3 +85,6 @@ Accepted submissions for rated contests
 
 ### codingcompetitions.withgoogle.com
 [Kick Start 2022 Round E](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb0f5)<br>
+
+### meta
+[Meta Hacker Cup 2023 Practice Round](https://www.facebook.com/codingcompetitions/hacker-cup/2023/practice-round)<br>

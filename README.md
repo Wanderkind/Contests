@@ -46,6 +46,7 @@ Accepted submissions for rated contests
 [AtCoder Regular Contest 146](https://atcoder.jp/contests/arc146)<br>
 [キーエンスプログラミングコンテスト2022（AtCoder Beginner Contest 274](https://atcoder.jp/contests/abc274)<br>
 [AtCoder Beginner Contest 284](https://atcoder.jp/contests/abc284)<br>
+[Daiwa Securities Co. Ltd. Programming Contest 2023（AtCoder Beginner Contest 331](https://atcoder.jp/contests/abc331)<br>
 
 ### codeforces.com
 [Codeforces Round #775 (Div. 2, based on Moscow Open Olympiad in Informatics)](https://codeforces.com/contest/1649)<br>

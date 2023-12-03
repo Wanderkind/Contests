@@ -35,6 +35,7 @@ Accepted submissions for rated contests
 [solved.ac Grand Arena #2 · Arena #2](https://www.acmicpc.net/contest/view/1077)<br>
 [월간 향유회 2023. 08.](https://www.acmicpc.net/contest/view/1094)<br>
 [제3회 숙명여자대학교 프로그래밍 경진대회 (SMUPC) Open Contest](https://www.acmicpc.net/contest/view/1109)<br>
+[제10회 한양대학교 프로그래밍 경시대회(HCPC) Beginner Division Open Contest · Arena #14](https://www.acmicpc.net/contest/view/1204)<br>
 
 ### atcoder.jp
 [AtCoder Beginner Contest 250](https://atcoder.jp/contests/abc250)<br>
